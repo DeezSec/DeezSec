@@ -56,7 +56,7 @@
 - 🤝 Existential crisis with **Binary Exploitation.**
 - 👨‍💻 All of my projects are available in my head, **feel free to ask.**
   
-<h3 align="center">Status</h3>
+<h3 align="left">Status</h3>
 
  _Session one died of dysentery_
  
@@ -64,7 +64,7 @@
   - Weather: **It's always windy in the evening.**
   - Health: **Underweight**
   - Caffeine: **1270 mg**
-  - Sugarrush: **Weekly**
+  - Sugar-rush: **Weekly**
   - Hacked: **All the procastination**
   - Running on: **6 hours sleep**
 
